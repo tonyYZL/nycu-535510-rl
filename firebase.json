@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "nycu-rl-sympol",
     "public": "public",
     "ignore": [
       "firebase.json",
